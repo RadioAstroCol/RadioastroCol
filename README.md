@@ -1,5 +1,5 @@
 ## Workshop Radioastronomía en Colombia
-La radioastronomía en Colombia se encuentra en punto coyuntural. A lo largo de los últimos años las capacidades y los proyectos alrededor de la radioastronomía han crecido gracias al trabajo de varias Universidades del país. En este workshop queremos que los investigadores directamente involucrados en temas de radioastronomía compartan sus experiencias y se reunan para que se consolide una visión para que a mediano plazo la radioastronomía sea un motor de la investigación científica en Colombia.
+La radioastronomía en Colombia se encuentra en punto coyuntural. En los últimos años las capacidades y los proyectos alrededor de la radioastronomía han crecido gracias al trabajo de varias Universidades del país. En este workshop queremos que los investigadores directamente involucrados en temas de radioastronomía compartan sus experiencias y se reunan para que se consolide una visión para que a mediano plazo la radioastronomía sea un motor de la investigación científica en Colombia.
 
 ### Objetivos
 
@@ -23,41 +23,42 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. A lo largo de 
 | ------------- |:-------------:| 
 | 9:00-10:00am  | Registro | 
 | 10:00-10:15am    | Apertura      |   
-| 10:15-11:00am | Charla Invitada: Oscar Restrepo, PhD(c) |   
-| 11:00-11:20am | Cafe |
-| 11:20-11:50am | Charla contribuida |
+| 10:15-11:00am | Charla Invitada: Oscar Restrepo (UChile/UECCI) |   
+| 11:00-11:20am | Café |
+| 11:20-11:50am | Charla de revisión (UTP) |
 | 11:45am-1:30pm | Almuerzo |
-| 1:30-2:00pm | Charla contribuida |
-| 2:00-2:30pm | Charla contribuida |
-| 2:30-2:50pm | Cafe |
+| 1:30-1:50pm | Charla contribuida |
+| 1:50-2:10pm | Charla contribuida |
+| 2:10-2:30pm | Charla contribuida |
+| 2:30-2:50pm | Café |
 | 3:00-5:00pm | Mesa redonda sobre Educación y Desarrollo|
 
+| |Sábado 17 de Febrero |
+| ------------- |:-------------:| 
+| 10:00-10:45am    | Charla Invitada: Juan Carlos Martínez Oliveros (UCBerkeley)      |   
+| 10:45-11:15am | Café |   
+| 11:15-11:45am | Charla de revisión (UECCI) |
+| 11:45am-12:15pm | Charla de revisión (UNAL?) |
+| 12:15-2:00pm | Almuerzo |
+| 2:00-2:20pm | Charla contribuida |
+| 2:20-2:40pm | Charla contribuida |
+| 2:40-3:00pm | Charla contribuida |
+| 3:00-5:00pm | Mesa redonda sobre Macroproyecto|
 
+### Lugar
 
-```markdown
-Syntax highlighted code block
+Universidad ECCI, Bogotá, Colombia (Auditorios por definir)
 
-# Header 1
-## Header 2
-### Header 3
+### Comité Organizador
 
-- Bulleted
-- List
+- Germán Chaparro, UECCI
+- Oscar Restrepo, UChile/UECCI
+- Alex Martínez, UECCI
 
-1. Numbered
-2. List
+### Registro
 
-**Bold** and _Italic_ and `Code` text
+En este [enlace](https://docs.google.com/forms/d/e/1FAIpQLSdygd2Sgx9Wd5Gs4Se63Wjz388Wa_7PAV_fwY7XMIJ4Gn2n-w/viewform?usp=sf_link) está el registro como ponente o como asistente al workshop. Por favor resistrarse antes del sábado 10 de Febrero.
 
-[Link](url) and ![Image](src)
-```
+### Contacto
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RadioAstroCol/RadioastroCol/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Germán Chaparro: gchaparrom ecci.edu.co

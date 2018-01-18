@@ -35,7 +35,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 | |Sábado 17 de Febrero |
 | ------------- |:-------------:| 
-| 10:00-10:45am    | Charla Invitada: Juan Carlos Martínez Oliveros (UCBerkeley)      |   
+| 10:00-10:45am    | Charla Invitada: Juan Carlos Martínez (UCBerkeley) |   
 | 10:45-11:15am | Café |   
 | 11:15-11:45am | Charla de revisión (UECCI) |
 | 11:45am-12:15pm | Charla de revisión (UNAL?) |

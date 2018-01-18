@@ -19,7 +19,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. A lo largo de 
 
 ### Programación
 
-| Viernes 16 de Febrero |
+| |Viernes 16 de Febrero ||
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |

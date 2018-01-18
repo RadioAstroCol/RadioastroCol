@@ -1,12 +1,29 @@
-## Welcome to GitHub
+## Workshop Radioastronomía en Colombia
+La radioastronomía en Colombia se encuentra en punto coyuntural. A lo largo de los últimos años las capacidades y los proyectos alrededor de la radioastronomía han crecido gracias al trabajo de varias Universidades del país. En este workshop queremos que los investigadores directamente involucrados en temas de radioastronomía compartan sus experiencias y se reunan para que se consolide una visión para que a mediano plazo la radioastronomía sea un motor de la investigación científica en Colombia.
 
-You can use the [editor on GitHub](https://github.com/RadioAstroCol/RadioastroCol/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Objetivos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Reunir las experiencias en investigación y educación en Radioastronomía.
+- Generar colaboraciones entre investigadores.
+- Fortalecer la relación entre investigadores y educadores a través de proyectos relacionados con la Radioastronomía.
+- Generar documentos finales para un macroproyecto de Radioastronomía que involucre la mayor cantidad de instituciones participantes.
 
-### Markdown
+### Universidades Participantes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Universidad de Antioquia
+- Universidad del Bosque
+- Universidad ECCI
+- Universidad Industrial de Santander
+- Universidad Nacional de Colombia
+- Universidad Tecnológica de Pereira
+
+### Programación
+
+| Viernes 16 de Febrero |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ```markdown
 Syntax highlighted code block

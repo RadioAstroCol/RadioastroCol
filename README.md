@@ -19,11 +19,20 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. A lo largo de 
 
 ### Programación
 
-| |Viernes 16 de Febrero ||
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| |Viernes 16 de Febrero |
+| ------------- |:-------------:| 
+| 9:00-10:00am  | Registro | 
+| 10:00-10:15am    | Apertura      |   
+| 10:15-11:00am | Charla Invitada: Oscar Restrepo, PhD(c) |   
+| 11:00-11:20am | Cafe |
+| 11:20-11:50am | Charla contribuida |
+| 11:45am-1:30pm | Almuerzo |
+| 1:30-2:00pm | Charla contribuida |
+| 2:00-2:30pm | Charla contribuida |
+| 2:30-2:50pm | Cafe |
+| 3:00-5:00pm | Mesa redonda sobre Educación y Desarrollo|
+
+
 
 ```markdown
 Syntax highlighted code block

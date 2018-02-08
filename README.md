@@ -22,15 +22,15 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | |Viernes 16 de Febrero |
 | ------------- |:-------------:| 
 | 9:00-10:00am  | Registro | 
-| 10:00-10:15am    | Apertura      |   
-| 10:15-11:00am | Charla Invitada: Oscar Restrepo (UChile/UECCI) |   
-| 11:00-11:20am | Café |
-| 11:20-11:50am | Charla de revisión (UTP) |
-| 11:45am-1:30pm | Almuerzo |
-| 1:30-1:50pm | Charla contribuida |
-| 1:50-2:10pm | Charla contribuida |
-| 2:10-2:30pm | Charla contribuida |
-| 2:30-2:50pm | Café |
+| 10:00-10:20am    | Apertura      |   
+| 10:20-10:50am | Charla de revisión (UTP)  |   
+| 10:50-11:10am | Café |   
+| 11:00-11:20am | Charla contribuida |
+| 11:20-11:50am | Charla contribuida |
+| 11:50am-1:30pm | Almuerzo |
+| 1:30-2:15pm | Charla Invitada: Oscar Restrepo (UChile/UECCI) |
+| 2:15-2:35pm | Charla contribuida |
+| 2:35-3:00pm | Café |
 | 3:00-5:00pm | Mesa redonda sobre Educación y Desarrollo|
 
 | |Sábado 17 de Febrero |

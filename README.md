@@ -20,7 +20,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 ### Programación
 
 | |Viernes 16 de Febrero |
-| ------------- |:-------------:| 
+| :-------------: |-------------| 
 | 9:00-10:00am  | Registro | 
 | 10:00-10:20am    | Apertura      |   
 | 10:20-10:50am | Edwin Quintero - Charla de revisión - Radioastronomía en el OAUTP  |   
@@ -34,7 +34,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 3:00-5:00pm | Mesa redonda sobre Educación y Desarrollo|
 
 | |Sábado 17 de Febrero |
-| ------------- |:-------------:| 
+|: -------------: |-------------| 
 | 10:00-10:45am    | Charla Invitada: Juan Carlos Martínez (UCBerkeley) |   
 | 10:45-11:15am | Café |   
 | 11:15-11:45am | Germán Chaparro - Charla de revisión - Radioastronomía en la UECCI |

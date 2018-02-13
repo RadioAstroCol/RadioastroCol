@@ -56,6 +56,7 @@ Bogotá, Colombia (Auditorio Sede P)
 
 - Germán Chaparro, UECCI
 - Oscar Restrepo, UChile/UECCI
+- Luz Ángela García, UECCI
 
 ### Registro
 

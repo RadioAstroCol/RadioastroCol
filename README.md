@@ -21,10 +21,10 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 | |Viernes 16 de Febrero |
 | :-------------: |:-------------:| 
-| 9:00-10:00am  | Registro | 
-| 10:00-10:20am    | Apertura      |   
-| 10:20-10:50am | **Charla de revisión** Edwin Quintero - Radioastronomía en el OAUTP  |   
-| 10:50-11:10am | Café |   
+| 9:00-9:30am  | Registro | 
+| 9:30-10:00am    | Apertura      |   
+| 10:00-10:30am | **Charla de revisión** Edwin Quintero - Radioastronomía en el OAUTP  |   
+| 10:30-11:00am | Café |   
 | 11:00-11:20am | Pedro Deaza - Tasa de Produccion de Agua en Cometas |
 | 11:20-11:50am | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
 | 11:50am-1:30pm | Almuerzo |

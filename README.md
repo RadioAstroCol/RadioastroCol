@@ -26,7 +26,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 10:00-10:30am | **Charla de revisión** Edwin Quintero - Radioastronomía en el OAUTP  |   
 | 10:30-11:00am | Café |   
 | 11:00-11:20am | Pedro Deaza - Tasa de Produccion de Agua en Cometas |
-| 11:20-11:40am | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
+| 11:20-11:40am |  Juan Sebastián Hincapié - Interferómetro a 1.4 GHz |
 | 11:40-12:00am | Juan Camilo Guevara - First Colombian Interferometer (FiCoRI) |
 | 12:00m-1:30pm | Almuerzo |
 | 1:30-2:15pm | **Charla Invitada** Oscar Restrepo (UChile/UECCI) |
@@ -39,7 +39,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 10:00-10:45am    | **Charla Invitada** Juan Carlos Martínez-Oliveros (UCBerkeley) |   
 | 10:45-11:15am | Café |   
 | 11:15-11:45am | **Charla de revisión** Germán Chaparro  - Radioastronomía en la UECCI |
-| 11:45am-12:05pm | Juan Sebastián Hincapié - Interferómetro a 1.4 GHz |
+| 11:45am-12:05pm | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
 | 12:05-2:00pm | Almuerzo |
 | 2:00-2:20pm | Felipe Mosquera - Red Solar de Radio en Colombia  |
 | 2:20-2:40pm | Didier Armando Cuéllar - Por definir |

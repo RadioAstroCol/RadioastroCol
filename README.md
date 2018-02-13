@@ -23,13 +23,13 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | ------------- |:-------------:| 
 | 9:00-10:00am  | Registro | 
 | 10:00-10:20am    | Apertura      |   
-| 10:20-10:50am | Charla de revisión (UTP)  |   
+| 10:20-10:50am | Edwin Quintero - Charla de revisión - Radioastronomía en el OAUTP  |   
 | 10:50-11:10am | Café |   
-| 11:00-11:20am | Charla contribuida |
-| 11:20-11:50am | Charla contribuida |
+| 11:00-11:20am | Pedro Deaza - Tasa de Produccion de Agua en Cometas |
+| 11:20-11:50am | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
 | 11:50am-1:30pm | Almuerzo |
 | 1:30-2:15pm | Charla Invitada: Oscar Restrepo (UChile/UECCI) |
-| 2:15-2:35pm | Charla contribuida |
+| 2:15-2:35pm | Felipe Mosquera - Red Solar de Radio en Colombia |
 | 2:35-3:00pm | Café |
 | 3:00-5:00pm | Mesa redonda sobre Educación y Desarrollo|
 
@@ -37,12 +37,12 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | ------------- |:-------------:| 
 | 10:00-10:45am    | Charla Invitada: Juan Carlos Martínez (UCBerkeley) |   
 | 10:45-11:15am | Café |   
-| 11:15-11:45am | Charla de revisión (UECCI) |
-| 11:45am-12:15pm | Charla de revisión (UNAL?) |
-| 12:15-2:00pm | Almuerzo |
-| 2:00-2:20pm | Charla contribuida |
-| 2:20-2:40pm | Charla contribuida |
-| 2:40-3:00pm | Charla contribuida |
+| 11:15-11:45am | Germán Chaparro - Charla de revisión - Radioastronomía en la UECCI |
+| 11:45am-12:10pm | Juan Sebastián Hincapié - Interferómetro a 1.4 GHz |
+| 12:10-2:00pm | Almuerzo |
+| 2:00-2:20pm | Hamilton David Galvis - Por definir  |
+| 2:20-2:40pm | Didier Armando Cuéllar - Por definir |
+| 2:40-3:00pm | Café |
 | 3:00-5:00pm | Mesa redonda sobre Macroproyecto|
 
 ### Lugar
@@ -53,7 +53,6 @@ Universidad ECCI, Bogotá, Colombia (Auditorios por definir)
 
 - Germán Chaparro, UECCI
 - Oscar Restrepo, UChile/UECCI
-- Alex Martínez, UECCI
 
 ### Registro
 

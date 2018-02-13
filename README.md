@@ -56,7 +56,7 @@ Universidad ECCI, Bogotá, Colombia (Auditorios por definir)
 
 ### Registro
 
-En este [enlace](https://docs.google.com/forms/d/e/1FAIpQLSdygd2Sgx9Wd5Gs4Se63Wjz388Wa_7PAV_fwY7XMIJ4Gn2n-w/viewform?usp=sf_link) está el registro como ponente o como asistente al workshop. Por favor resistrarse antes del sábado 10 de Febrero.
+En este [enlace](https://docs.google.com/forms/d/e/1FAIpQLSdygd2Sgx9Wd5Gs4Se63Wjz388Wa_7PAV_fwY7XMIJ4Gn2n-w/viewform?usp=sf_link) está el registro como asistente al workshop. El registro como ponente terminó el sábado 10 de Febrero.
 
 ### Contacto
 

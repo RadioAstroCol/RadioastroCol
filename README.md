@@ -47,7 +47,9 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 ### Lugar
 
-Universidad ECCI, Bogotá, Colombia (Auditorios por definir)
+Universidad ECCI Sede P
+Calle 51 No. 19-12
+Bogotá, Colombia (Auditorios por definir)
 
 ### Comité Organizador
 

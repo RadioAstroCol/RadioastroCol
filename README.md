@@ -19,7 +19,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 ### Programación
 
-- ASP: Auditorio Sede P
+- ASP: Auditorio Sede P (5to piso)
 - 406P: Salón 406 Sede P
 
 | |Viernes 16 de Febrero (ASP) |
@@ -53,7 +53,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 Universidad ECCI Sede P
 Calle 51 No. 19-12
-Bogotá, Colombia (Auditorio Sede P)
+Bogotá, Colombia
 
 ### Comité Organizador
 

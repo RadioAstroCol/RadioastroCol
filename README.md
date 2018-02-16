@@ -58,8 +58,8 @@ Bogotá, Colombia
 ### Comité Organizador
 
 - Germán Chaparro, UECCI
-- Oscar Restrepo, UChile/UECCI
 - Luz Ángela García, UECCI
+- Adriana Suárez, UECCI
 
 ### Registro
 

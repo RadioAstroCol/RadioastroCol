@@ -45,7 +45,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 11:45am-12:05pm | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
 | 12:05-2:00pm | Almuerzo |
 | 2:00-2:20pm | Felipe Mosquera - Red Solar de Radio en Colombia  |
-| 2:20-2:40pm | Didier Armando Cuéllar - Por definir |
+| 2:20-2:40pm | Mauricio Vinasco - Confirmación de explosiones solares con antena Yagi-Uda |
 | 2:40-3:00pm | Café |
 | 3:00-5:00pm | Mesa redonda sobre Macroproyecto|
 

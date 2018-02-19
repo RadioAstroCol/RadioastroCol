@@ -33,7 +33,7 @@
 - Felipe Gómez (Planetario): Reto de trabajar con niños entre 8-16 años. Llevar radioastronomía sin llenar tablero.
 - Fredy Moreno: Necesidades - 1 - Apoyo académico pero a diferencia de la astronomía óptica apoyo tecnológico. Problemas claros con Radio Jove, desde el 2002. Rayos dañan componentes importantes.
 - Hamilton: Mejor motivación es el juego a ser científicos, tiene un proyecto para emprener en un colegio entorno a la robotica y se enfocara en la radioinstrumentacion astronomicay divugacion cientifica de la astronomia.
-- Milo: Vinculación directa entre estudiantes de colegios a través de ciencia ciudadana (datos científicos analizados por estudiantes). Enfocar proyectos académicos hacia apoyo educativo en colegios. 
+- Milo: Vinculación directa entre estudiantes de colegios a través de ciencia ciudadana (datos científicos analizados por estudiantes). Enfocar proyectos académicos hacia apoyo educativo en colegios. https://radio.galaxyzoo.org/
 - Ángela: Crear plataforma de ciencia ciudadana para datos de radio que usen reconocimiento visual.
 - Fredy Moreno: Problemas visuales con datos de radio -> poco estético. 
 - JS Hincapié: Haystack es usado por estudiantes de colegio - diferentes partes de los equipos para enseñar diferentes cosas.
@@ -42,12 +42,11 @@
 - MCZ: informan que efectivamente han realizado seguimiento a los estudiantes que han pasado por el curso de ellas y han continuado trabajando en ciencias, ingenierias y carreras afines con la astronomia, aun hay comunicacion con algunos estudiantes y se comparte vivencias y conocimientos desde las diferentes areas (geologia, ingenieria, computaciòn).Por ultimo informan que el objetivo de llegar a curricularizar la materia de astronomia en el pensum educativo de los colegios, es algo complejo debido a las politicas del ministerio de educacion, es mas efectivo gener depende de los maestros.
 - Edwin Quintero: informa que es completamente posible realizar un proyecto interdisciplinario entre las diferentes instituciones sobre radioastronomia, usando el componente pedagogico y didactico que puede usar la correlacion de manchas solares atraves de proyeccion usando binoculares y observaciones en radio con receptores supersid diseñados en la UTP. Se generarian guias de laboratorio y el objetivo seria motivar y promover la ciencias desde el optico y concatenar con la radioastronomia (receptor UTP, Software, antenas y guias de laboratorio, binoculares)
 - Juan Carlos: ofrece sus servicios para redaccion y logistica de las guias de laboratorio para los proyectos que se generaron.
-- German: presenta un instrumento para generar didacticas de aprendizaje a nivel educativo desde la perspectiva de radioastronomia, comparte los software de version libre que se pueden usar para visualizar emisaras de fm.(SDRSHARP). Resalta que es posible resaltar y potencializar habilidades creativas desde la radioastronomia.
+- German: presenta un instrumento para generar didacticas de aprendizaje a nivel educativo desde la perspectiva de radioastronomia, comparte los software de version libre que se pueden usar para visualizar emisaras de fm. (SDRSHARP). Resalta que es posible resaltar y potencializar habilidades creativas desde la radioastronomia.
 - MT: ¿como estar en contacto continuo para compartir y apoyar los procesos de creacion de clubes cientificos?
-- Felipe Gomez: generar una comunidad virtual, red social o blogs para generar canales de comunicacion entre los cientificos y los lideres de divulgacion como las profes. 
-planetario posee el poder de convocatoria.
-- German: Propone espacio de cocreacion diferentes displinas con objetivos claros, desde el planetario para ciencia ciudadana, posee los espacios. Iniciativa: Crear recursos educativos - manuales, donaciones, maquetas. Pensar más allá de lo matemático.
-- MT: informa sobre la participacion en el tf2 y propone compartir la informacion y los proyectos gestados en el encuentro de la ECCI.
+- Felipe Gomez: generar una comunidad virtual, red social o blogs para generar canales de comunicacion entre los cientificos y los lideres de divulgacion como las profes. Planetario posee el poder de convocatoria.
+- German: Propone espacio de cocreacion diferentes displinas con objetivos claros, desde el planetario para ciencia ciudadana y colegios, posee los espacios. Iniciativa: Crear recursos educativos - manuales, donaciones, maquetas. Pensar más allá de lo matemático.
+- MT: Informa sobre la participacion en el tf2 y propone compartir la informacion y los proyectos gestados en el encuentro de la ECCI.
 
 
 

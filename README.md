@@ -19,13 +19,11 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 ### Programación
 
-- ASP: Auditorio Sede P (5to piso)
-- 406P: Salón 406 Sede P
 
 | |Viernes 16 de Febrero (ASP) |
 | :-------------: |:-------------:| 
 | 9:00-9:30am  | Registro | 
-| 9:30-10:00am    | Apertura      |   
+| 9:30-10:00am    | [Apertura](Workshop/chaparro_intro.pdf)      |   
 | 10:00-10:30am | **Charla de revisión** Edwin Quintero - Radioastronomía en el OAUTP  |   
 | 10:30-11:00am | Café |   
 | 11:00-11:20am | Pedro Deaza - Tasa de Produccion de Agua en Cometas |
@@ -48,6 +46,10 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 2:20-2:40pm | Mauricio Vinasco - Confirmación de explosiones solares con antena Yagi-Uda |
 | 2:40-3:00pm | Café |
 | 3:00-5:00pm | Mesa redonda sobre Macroproyecto|
+
+- ASP: Auditorio Sede P (5to piso)
+- 406P: Salón 406 Sede P
+
 
 ### Lugar
 

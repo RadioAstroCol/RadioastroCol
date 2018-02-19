@@ -2,6 +2,8 @@
 La radioastronomía en Colombia se encuentra en punto coyuntural. En los últimos años las capacidades y los proyectos alrededor de la radioastronomía han crecido gracias al trabajo de varias Universidades del país. En este workshop queremos que los investigadores directamente involucrados en temas de radioastronomía compartan sus experiencias y se reunan para que se consolide una visión para que a mediano plazo la radioastronomía sea un motor de la investigación científica en Colombia.
 
 <img src=Workshop/unnamed.jpg width="500">
+https://github.com/RadioAstroCol/RadioastroCol/blob/master/
+![](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/unnamed.jpg =250x)
 
 ### Objetivos
 
@@ -65,9 +67,6 @@ Bogotá, Colombia
 - Luz Ángela García, UECCI
 - Adriana Suárez, UECCI
 
-### Registro
-
-En este [enlace](https://docs.google.com/forms/d/e/1FAIpQLSdygd2Sgx9Wd5Gs4Se63Wjz388Wa_7PAV_fwY7XMIJ4Gn2n-w/viewform?usp=sf_link) está el registro como asistente al workshop. El registro como ponente terminó el sábado 10 de Febrero.
 
 ### Contacto
 

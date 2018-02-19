@@ -1,7 +1,7 @@
 ## Workshop Radioastronomía en Colombia
 La radioastronomía en Colombia se encuentra en punto coyuntural. En los últimos años las capacidades y los proyectos alrededor de la radioastronomía han crecido gracias al trabajo de varias Universidades del país. En este workshop queremos que los investigadores directamente involucrados en temas de radioastronomía compartan sus experiencias y se reunan para que se consolide una visión para que a mediano plazo la radioastronomía sea un motor de la investigación científica en Colombia.
 
-![](Workshop/unnamed.jpg = 500x)
+![Poster](Workshop/unnamed.jpg = 500x)
 
 ### Objetivos
 

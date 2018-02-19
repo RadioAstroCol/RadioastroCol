@@ -19,8 +19,10 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 - Universidad Nacional de Colombia
 - Universidad Tecnológica de Pereira
 
+
 ### Programación
 
+- [Lista de participantes](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/Participantes.md)
 
 | |Viernes 16 de Febrero (ASP) |
 | :-------------: |:-------------:| 

@@ -1,7 +1,7 @@
 ## Workshop Radioastronomía en Colombia
 La radioastronomía en Colombia se encuentra en punto coyuntural. En los últimos años las capacidades y los proyectos alrededor de la radioastronomía han crecido gracias al trabajo de varias Universidades del país. En este workshop queremos que los investigadores directamente involucrados en temas de radioastronomía compartan sus experiencias y se reunan para que se consolide una visión para que a mediano plazo la radioastronomía sea un motor de la investigación científica en Colombia.
 
-<img src=Workshop/unnamed.jpg width="500">
+<img src="https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/unnamed.jpg" width="500">
 https://github.com/RadioAstroCol/RadioastroCol/blob/master/
 ![](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/unnamed.jpg =250x)
 
@@ -43,7 +43,7 @@ https://github.com/RadioAstroCol/RadioastroCol/blob/master/
 |:-------------: |:-------------:| 
 | 10:00-10:45am    | **Charla Invitada** Juan Carlos Martínez-Oliveros (UCBerkeley) |   
 | 10:45-11:15am | Café |   
-| 11:15-11:45am | **Charla de revisión** [Germán Chaparro  - Radioastronomía en la UECCI](https://github.com/RadioAstroCol/RadioastroCol/blob/master/chaparro_review_ecci.pdf) |
+| 11:15-11:45am | **Charla de revisión** [Germán Chaparro  - Radioastronomía en la UECCI](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/chaparro_review_ecci.pdf) |
 | 11:45am-12:05pm | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
 | 12:05-2:00pm | Almuerzo |
 | 2:00-2:20pm | Felipe Mosquera - Red Solar de Radio en Colombia  |

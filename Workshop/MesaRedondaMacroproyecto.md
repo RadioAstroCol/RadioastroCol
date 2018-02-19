@@ -20,6 +20,8 @@ Participantes:
 
 ### Ideas/Propuestas
 
+- Felipe Mosquera: Propone crear Red de Radioastronomía, empezando por plataforma para Radioastronomía Solar con datos de instrumentos existentes (UTP, OAN, Planetario)
+- Fredy Moreno: Buscar datos antiguos para alimentar red.
 - Ángela: Encontrar un proyecto que funcione como un norte y actuar como comunidad
 - Felipe Mosquera: Posibilidad de unis de entrar a la Red de Radioastronomía propuesta
 - Julián: La Red AstroCO ya existe para ayudarnos a unir. Crear un capítulo de Radio dentro de AstroCO https://accefyn.com/microsites/nodos/astroco/inicio/ 
@@ -27,7 +29,7 @@ Participantes:
 - Julián: Buscar colaboraciones internacionales bajo proyectos macro (NENUFAR). Entrar como país con una universidad responsable. Tener en cuenta necesidades supercómputo para procesar datos. Futuro plan en UIS - Guatiguará. Se pueden suplir necesidades para el estado, ejemplo: Manejo del Espectro.
 - Edwin: Apoya hacerlo dentro del escenario de AstroCO. 2 frentes para macroproyecto
   - Apoyo a NENUFAR. 
-  - Poner una antena 1-20 GHz, buscar presupuesto entre universidades.
+  - Poner una antena 1-20 GHz, buscar presupuesto entre universidades. (Apoyo a prepuesta de Esteban Silva, UdeA)
 - Ángela: Buscar marco legal para vincular empresas del sector privado.
 - Mauricio: Hacer énfasis en el tema de seguimiento satelital.
 - Santiago Vargas: Apoyo de UE a proyectos relacionados con posconflicto. Dedicar un poco de pensamiento para cómo puede ser útil de una manera ms amplia para el país.

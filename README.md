@@ -15,6 +15,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 - Universidad de Antioquia
 - Universidad del Bosque
 - Universidad ECCI
+- Universidad Distrital Francisco José de Caldas
 - Universidad Industrial de Santander
 - Universidad Nacional de Colombia
 - Universidad Tecnológica de Pereira
@@ -45,7 +46,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 11:15-11:45am | **Charla de revisión** [Germán Chaparro  - Radioastronomía en la UECCI](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/chaparro_review_ecci.pdf) |
 | 11:45am-12:05pm | [Santiago Vanegas - Interferometro Tipo Michelson a 11 GHz](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/vanegas_IMFR11GHz.pdf) |
 | 12:05-2:00pm | Almuerzo |
-| 2:00-2:20pm | Felipe Mosquera - Red Solar de Radio en Colombia  |
+| 2:00-2:20pm | [Felipe Mosquera - Red Solar de Radio en Colombia](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/mosquera_red.pdf)  |
 | 2:20-2:40pm | [Mauricio Vinasco - Confirmación de explosiones solares con antena Yagi-Uda](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/vinasco_yagi_uda.pdf) |
 | 2:40-3:00pm | Café |
 | 3:00-5:00pm | [Mesa redonda sobre Macroproyecto](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/MesaRedondaMacroproyecto.md)|

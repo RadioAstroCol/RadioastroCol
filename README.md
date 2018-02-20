@@ -8,7 +8,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 - Reunir las experiencias en investigación y educación en Radioastronomía.
 - Generar colaboraciones entre investigadores.
 - Fortalecer la relación entre investigadores y educadores a través de proyectos relacionados con la Radioastronomía.
-- Generar documentos finales para un macroproyecto de Radioastronomía que involucre la mayor cantidad de instituciones participantes.
+- [Generar estrategias para un macroproyecto de Radioastronomía que involucre la mayor cantidad de instituciones participantes](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/final_radio.pdf).
 
 ### Universidades Participantes
 
@@ -47,7 +47,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 11:45am-12:05pm | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
 | 12:05-2:00pm | Almuerzo |
 | 2:00-2:20pm | Felipe Mosquera - Red Solar de Radio en Colombia  |
-| 2:20-2:40pm | Mauricio Vinasco - Confirmación de explosiones solares con antena Yagi-Uda |
+| 2:20-2:40pm | [Mauricio Vinasco - Confirmación de explosiones solares con antena Yagi-Uda](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/vinasco_yagi_uda.pdf) |
 | 2:40-3:00pm | Café |
 | 3:00-5:00pm | [Mesa redonda sobre Macroproyecto](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/MesaRedondaMacroproyecto.md)|
 

@@ -22,7 +22,6 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 ### Programación
 
-- [Lista de participantes](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/Participantes.md)
 
 | |Viernes 16 de Febrero (ASP) |
 | :-------------: |:-------------:| 
@@ -44,7 +43,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 10:00-10:45am    | **Charla Invitada** Juan Carlos Martínez-Oliveros (UCBerkeley) |   
 | 10:45-11:15am | Café |   
 | 11:15-11:45am | **Charla de revisión** [Germán Chaparro  - Radioastronomía en la UECCI](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/chaparro_review_ecci.pdf) |
-| 11:45am-12:05pm | Santiago Vanegas - Interferometro Tipo Michelson a 11GHz |
+| 11:45am-12:05pm | [Santiago Vanegas - Interferometro Tipo Michelson a 11 GHz](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/vanegas_IMFR11GHz.pdf) |
 | 12:05-2:00pm | Almuerzo |
 | 2:00-2:20pm | Felipe Mosquera - Red Solar de Radio en Colombia  |
 | 2:20-2:40pm | [Mauricio Vinasco - Confirmación de explosiones solares con antena Yagi-Uda](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/vinasco_yagi_uda.pdf) |
@@ -66,6 +65,12 @@ Bogotá, Colombia
 - Germán Chaparro, UECCI
 - Luz Ángela García, UECCI
 - Adriana Suárez, UECCI
+
+### Participantes
+
+- [Lista de participantes](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/Participantes.md)
+
+<img src="https://raw.githubusercontent.com/RadioAstroCol/RadioastroCol/master/Workshop/fotoevento.jpg" width="500">
 
 
 ### Contacto

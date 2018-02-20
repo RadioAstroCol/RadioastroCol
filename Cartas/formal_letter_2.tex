@@ -1,0 +1,78 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Full Size Formal Letter
+% LaTeX Template
+% Version 1.2 (8/2/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Micha Elmueller (http://micha.elmueller.net/)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+	pagenumber=false, % Removes page numbers from page 2 onwards
+	parskip=half, % Separates paragraphs with some whitespace, use parskip=full for more space or comment out to return to default
+	fromalign=right, % Aligns the from address to the right
+	foldmarks=false, % Prints small fold marks on the left of the page
+	addrfield=true % Set to false to hide the addressee section - you will then want to adjust the height of the body of the letter on the page by adding the following in this section: \makeatletter \@setplength{refvpos}{\useplength{toaddrvpos}} \makeatletter
+	]{scrlttr2}
+\usepackage{graphicx,float,wrapfig}
+\usepackage[english]{babel} % Explicitly load the babel package to stop an error occurring on some LaTeX installations
+
+\renewcommand*{\raggedsignature}{\raggedright} % Stop the signature from indenting
+
+%----------------------------------------------------------------------------------------
+%	YOUR INFORMATION AND LETTER DATE
+%----------------------------------------------------------------------------------------
+
+\setkomavar{fromname}{Germ\'an Chaparro} % Your name used in the from address
+\setkomavar{fromaddress}{Universidad ECCI\\Bogot\'a, Colombia\\gchaparrom@ecci.edu.co} % Your address
+\setkomavar{signature}{Germ\'an Chaparro, PhD\\Profesor Titular\\Universidad ECCI\\Bogot\'a, Colombia} % Your name used in the signature
+
+\date{Febrero 17 de 2018} % Date of the letter
+
+%----------------------------------------------------------------------------------------
+ 
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	ADDRESSEE
+%----------------------------------------------------------------------------------------
+ 
+\begin{letter}{NOMBRE APELLIDO\\INSTITUCION\\} % Addressee name and address
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+
+\opening{}
+
+
+Por medio de la presente certifico que NOMBRE APELLIDO particip\'o como TIPO en el Workshop de Radioastronom\'ia en Colombia, que tuvo lugar en la Universidad ECCI - Sede Bogot\'a durante el 16 y 17 de Febrero de este a\~no.\\
+
+%QUITAR Su contribuci\'on al Workshop tuvo como t\'itulo ``TITULO''.\\
+
+De parte del Comit\'e Organizador,\\
+
+\includegraphics[scale=0.2]{firma}\\
+Germ\'an Chaparro, PhD\\Profesor Titular\\Universidad ECCI\\Bogot\'a, Colombia
+
+
+%\setkomavar*{enclseparator}{Attached} % Change the default "encl:" to "Attached:"
+%\encl{Copyright permission form} % Attached documents
+
+%----------------------------------------------------------------------------------------
+
+\end{letter}
+ 
+\end{document}

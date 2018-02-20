@@ -33,7 +33,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 | 11:20-11:40am |  [Juan Sebastián Hincapié - Interferómetro a 1.4 GHz](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/hincapie_interf21cm.pdf) |
 | 11:40-12:00am | [Juan Camilo Guevara - First Colombian Interferometer (FiCoRI)](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/guevara_ficori.pdf) |
 | 12:00m-1:30pm | Almuerzo |
-| 1:30-2:15pm | **Charla Invitada** Oscar Restrepo (UChile/UECCI) |
+| 1:30-2:15pm | **Charla Invitada** [Oscar Restrepo (UChile/UECCI)](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/restrepo_raig_chile.pdf) |
 | 2:15-2:35pm | Actualización sobre Antenas de Chocontá y RADA: Big Data Colombia |
 | 2:35-3:00pm | Café |
 | 3:00-5:00pm | [Mesa redonda sobre Educación y Desarrollo](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/MesaRedondaEducacion.md)|

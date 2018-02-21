@@ -41,7 +41,7 @@ La radioastronomía en Colombia se encuentra en punto coyuntural. En los último
 
 | |Sábado 17 de Febrero (am: ASP, pm: 406P) |
 |:-------------: |:-------------:| 
-| 10:00-10:45am    | **Charla Invitada** Juan Carlos Martínez-Oliveros (UCBerkeley) |   
+| 10:00-10:45am    | [**Charla Invitada** Juan Carlos Martínez-Oliveros (UCBerkeley)](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/martinez_heliosfera.pdf) |   
 | 10:45-11:15am | Café |   
 | 11:15-11:45am | **Charla de revisión** [Germán Chaparro  - Radioastronomía en la UECCI](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/chaparro_review_ecci.pdf) |
 | 11:45am-12:05pm | [Santiago Vanegas - Interferometro Tipo Michelson a 11 GHz](https://github.com/RadioAstroCol/RadioastroCol/blob/master/Workshop/vanegas_IMFR11GHz.pdf) |
